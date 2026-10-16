@@ -125,3 +125,9 @@ Chrome, Edge, Firefox y Safari recientes, en escritorio y móvil. El video neces
 ## Licencia
 
 [MIT](LICENSE) © 2026 Dezen
+
+## Autor
+
+Hecho por **Dezen** · [GitHub](https://github.com/dezenbit) · [X](https://x.com/Dezenbitw) · [Instagram](https://www.instagram.com/dezenbit2) · dezen.dev@gmail.com
+
+☕ ¿Te gusta este proyecto? [Invítame un café en Ko-fi](https://ko-fi.com/dezenbitw)
